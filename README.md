@@ -8,7 +8,7 @@ Project: activPAL
 ## Datacamp courses
 | Course | Certificate |
 | ----------- | ----------- |
-| Introduction to python | <a href="evidence/courses/introduction-to-python.pdf" target="_blank">example</a> |
+| Introduction to python | [certificate](evidence/courses/introduction-to-python.pdf) |
 | Intermediate Python	 | [certificate](evidence/courses/intermediate-python.pdf) |
 | Python Data Science Toolbox (Part 1)	 | [certificate](evidence/courses/python-data-science-toolbox-part1.pdf) |
 | Python Data Science Toolbox (Part 2)	 | [certificate](evidence/courses/python-data-science-toolbox-part2.pdf) |
