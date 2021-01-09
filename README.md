@@ -54,19 +54,26 @@ Week 2 to the end of the project I had the role of Scrum Master. Therefor, I was
 ## Domain knowledge
 <details>
     <summary>Introduction of the subject field</summary>
+
+In our research paper I worked on multiple iterations of the introduction chapter.
+
+[Read more](pages/domain-knowledge/introduction.md)
 </details>
 
 <details>
     <summary>Literature research</summary>
 
-- article: "how to calculate exercise energy expendure, on trainingslab"
-- Paper: "MET Calculations from On-Body Accelerometers for Exergaming Movements"
-- Paper: "Measurement of Physical Activity Using Accelerometers"
+During the project I have read literature, shared its information with the team so we could use it for the project.
 
+[Read more](pages/domain-knowledge/literature-research.md)
 </details>
 
 <details>
     <summary>Explanation of Terminology, Jargon and definitions</summary>
+
+In the research paper I explain terms the user should know in the introduction.
+
+[Read more](pages/domain-knowledge/terminology.md)
 </details>
 
 ## Data preprocessing
