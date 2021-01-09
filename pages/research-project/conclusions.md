@@ -16,4 +16,4 @@ Based on the metrics of the regression models I think the models are overfitting
 In the end, I do not think we can accurately predict whether a person has performed at least 150 minutes of moderate intense physical activity with the current dataset used by the regression models. 
 
 
-[Presentation week 18](../../evidence/presentations/08-01-2021-external-presentation-week-18.pdf)
+[Presentation week 18](/evidence/presentations/08-01-2021-external-presentation-week-18.pdf)
