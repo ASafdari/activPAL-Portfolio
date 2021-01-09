@@ -15,4 +15,4 @@ It was my responsibility that these requirements were passed. That is why I woul
 ## Product Roadmap
 As a team we also created a global Product Roadmap containing Epics we would like to have finished and when. The creation of this Product Roadmap is also because of team effort. We noticed that in the first weeks we were on track and following this roadmap nicely. I think for the last weeks we underestimated the work of the last items and they took longer than expected.
 
-[Product Roadmap](evidence/product-roadmap.png)
+[Product Roadmap](/evidence/scrum/product-roadmap.png)

@@ -54,4 +54,4 @@ Second iteration was created by me. Taking into consideration the feedback the s
 Tony Andrioli's feedback on this iteration is:
 * Question 3 and subquestions should have a stronger relation to questions 1 and 2.
 
-[Research plan document](evidence/Research-plan.pdf)
+[Research plan document](/evidence/documents/Research-plan.pdf)
