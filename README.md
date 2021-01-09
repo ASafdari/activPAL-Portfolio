@@ -24,21 +24,31 @@ Project: activPAL
 ## Research project
 <details>
     <summary>Task definition</summary>
+In the research plan document I helped to describe the research questions.
 
-- Research plan: research questions iteration 2
-
+[read more](pages/research-project/task-definition.md)
 </details>
 
 <details>
     <summary>Evaluation</summary>
+
+I have not done any substantial work on this topic.
 </details>
 
 <details>
     <summary>Conclusions</summary>
+
+The conclusion of our research can be found in the research paper and final presentation. I wrote the conclusion in the presentation of week 18.
+
+[Read more](pages/research-project/conclusions.md)
 </details>
 
 <details>
     <summary>Planning</summary>
+
+Week 2 to the end of the project I had the role of Scrum Master. Therefor, I was responsible for making sure the team was performing optimally in the Scrum way. 
+
+[Read more](pages/research-project/planning.md)
 </details>
 
 ## Domain knowledge
