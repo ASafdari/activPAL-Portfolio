@@ -63,17 +63,15 @@ In order to understand the data I created plots about each activity. In addition
 [Read more](pages/data-preprocessing/data-exploration.md)
 
 ### Data cleansing
-* gone through respondents
-* mismatched data respondents
-* no jumping and stairwalking data in vyntus
+The data we got from CBS did not include data of all the respondents. With the data we did get, my team mates and I encountered some issues. So I decided to investigate the data files we received. Colin also sent an email to Annemieke regarding some (missing) respondents. 
+
+[Read more](pages/data-preprocessing/data-cleansing.md)
 
 ### Data preparation
 * categorized values
 * look at old linear regression notebooks
 * cleaned respondents
-
-### Data explanation
-I have not done any substantial work on this topic. 
+* RFE
 
 ### Data visualization (exploratory)
 
