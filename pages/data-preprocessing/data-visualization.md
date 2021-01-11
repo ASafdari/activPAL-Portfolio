@@ -30,3 +30,6 @@ The plots I created to test the linear regression hypothesis described in [(Sasa
 One example of a plot I created in [this notebook](/evidence/notebooks/linear_regression_XYZ_MET-walking-new.pdf) to get the optimal number of features for RFE:
 
 <img src='../../evidence/images/rfe-example.jpg' />
+
+
+Note: in all the plots I try to make use of titles, X & Y labels, markers, grid and legends in order to make it easier to understand the information. 
