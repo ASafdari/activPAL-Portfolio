@@ -1,7 +1,4 @@
 # Data exploration
-* plot basic activities
-* linear_regression_XYZ_MET (mag_acc)
-* removing_outliers
 
 ## Plot basic activities
 In order to try and understand the data I had the idea of creating plots of the X, Y and Z columns for each activity. I created the plots in [this](/evidence/notebooks/plot_basic_activities.pdf) notebook.
