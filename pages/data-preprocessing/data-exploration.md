@@ -28,10 +28,11 @@ In order to explore the relationship between the summation of magnitude of accel
 In this notebook I plot the MET and summation of magnitude of acceleration for a single respondent of the walking and running activities. 
 When comparing the two plots visually, there seems to be a strong correlation. The Pearson correlation score also seems to indicate this.
 
-<img src='../../evidence/images/linear-regression-walking-running.jpg'>
+<img src='../../evidence/images/linear-regression-walking-running.jpg' />
 
 After looking at the Pearson correlations between met and summation of magnitude of acceleration for walking and running activities of all respondents, I knew this single example is not because of coincidence. 
 
+<img src='../../evidence/images/pearson-correlation-all.jpg' />
 
 ## Removing outliers
 In an effort to remove the outliers in the activPAL data, Colin and I started working on [this](/evidence/notebooks/removing_outliers.pdf) notebook. In essence, we thought an outlier would be a X, Y or Z value that is far off from the mean of that column. So we used percentiles to remove the lower and upper 1% of values from each column. Later we found out that these values are not outliers and it is wrong to remove them as if they were. These values are just the lower and upper bounds of a movement, for example when the foot hits the floor or reaches the top while walking or running.
