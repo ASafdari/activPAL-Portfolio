@@ -22,120 +22,87 @@ Project: activPAL
 | Exploratory data analysis in Python	 | [certificate](evidence/courses/exploratory-data-analysis-in-python.pdf) |
 
 ## Research project
-<details>
-    <summary>Task definition</summary>
+### Task definition
 In the research plan document I helped to describe the research questions.
 
-[read more](pages/research-project/task-definition.md)
-</details>
+[Read more](pages/research-project/task-definition.md)
 
-<details>
-    <summary>Evaluation</summary>
-
+### Evaluation
 I have not done any substantial work on this topic.
-</details>
 
-<details>
-    <summary>Conclusions</summary>
-
+### Conclusions
 The conclusion of our research can be found in the research paper and final presentation. I wrote the conclusion in the presentation of week 18.
 
 [Read more](pages/research-project/conclusions.md)
-</details>
 
-<details>
-    <summary>Planning</summary>
-
-Week 2 to the end of the project I had the role of Scrum Master. Therefor, I was responsible for making sure the team was performing optimally in the Scrum way. 
+### Planning
+Week 2 to the end of the project I had the role of Scrum Master. Therefore, I was responsible for making sure the team was performing optimally in the Scrum way. 
 
 [Read more](pages/research-project/planning.md)
-</details>
 
 ## Domain knowledge
-<details>
-    <summary>Introduction of the subject field</summary>
-
+### Introduction of the subject field
 In our research paper I worked on multiple iterations of the introduction chapter.
 
 [Read more](pages/domain-knowledge/introduction.md)
-</details>
 
-<details>
-    <summary>Literature research</summary>
-
+### Literature research
 During the project I have read literature, shared its information with the team so we could use it for the project.
 
 [Read more](pages/domain-knowledge/literature-research.md)
-</details>
 
-<details>
-    <summary>Explanation of Terminology, Jargon and definitions</summary>
-
+### Explanation of Terminology, Jargon and definitions
 In the research paper I explain terms the user should know in the introduction.
 
 [Read more](pages/domain-knowledge/terminology.md)
-</details>
 
 ## Data preprocessing
-<details>
-    <summary>Data exploration</summary>
-</details>
+### Data exploration
+In order to understand the data I created plots about each activity. In addition, I attempted to remove outliers from the activPAL data.
 
-<details>
-    <summary>Data cleansing</summary>
-</details>
+[Read more](pages/data-preprocessing/data-exploration.md)
 
-<details>
-    <summary>Data preparation</summary>
-</details>
+### Data cleansing
+* gone through respondents
+* mismatched data respondents
+* no jumping and stairwalking data in vyntus
 
-<details>
-    <summary>Data explanation</summary>
-</details>
+### Data preparation
+* categorized values
+* look at old linear regression notebooks
+* cleaned respondents
 
-<details>
-    <summary>Data visualization</summary>
-</details>
+### Data explanation
+I have not done any substantial work on this topic. 
+
+### Data visualization (exploratory)
+
 
 ## Predictive analytics
-<details>
-    <summary>Selecting a model</summary>
-</details>
+### Selecting a model
+Selecting a model
 
-<details>
-    <summary>Configuring a model</summary>
-</details>
+### Configuring a model
 
-<details>
-    <summary>Training a model</summary>
-</details>
+### Training a model
 
-<details>
-    <summary>Evaluating a model</summary>
-</details>
+### Evaluating a model
 
-<details>
-    <summary>Visualizing the outcome of a model</summary>
-</details>
+### Visualizing the outcome of a model
 
 
 ## Communications
-<details>
-    <summary>Presentations</summary>
-    - Internal presentation 07-09-2020
-    - External presentation 30-10-2020
-    - Internal presentation 23-11-2020
-    - Internal presentation 14-12-2020
-</details>
+### Presentatioins
+- Internal presentation 07-09-2020
+- External presentation 30-10-2020
+- Internal presentation 23-11-2020
+- Internal presentation 14-12-2020
 
-<details>
-    <summary>Writing paper</summary>
-
+### Writing paper
 - Introduction
 - Method: Activity Classification (helped)
 - Method: International PA recommendation
 - Results: International PA recommendation
-</details>
 
 ## Python notebooks
 - PandasHelper
