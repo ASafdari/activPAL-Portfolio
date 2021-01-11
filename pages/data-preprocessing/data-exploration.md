@@ -1,6 +1,6 @@
 # Data exploration
 
-## Plot basic activities
+## Plot basic activities notebook
 In order to try and understand the data I had the idea of creating plots of the X, Y and Z columns for each activity. I created the plots in [this](/evidence/notebooks/plot_basic_activities.pdf) notebook.
 
 In this notebook I plot 5 seconds worth of X, Y and Z data for all activities except jumping which is 2.5 seconds.

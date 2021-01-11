@@ -27,9 +27,6 @@ In the research plan document I helped to describe the research questions.
 
 [Read more](pages/research-project/task-definition.md)
 
-### Evaluation
-I have not done any substantial work on this topic.
-
 ### Conclusions
 The conclusion of our research can be found in the research paper and final presentation. I wrote the conclusion in the presentation of week 18.
 
@@ -74,11 +71,12 @@ In order to get the data ready to be used in a model, I applied data preprocessi
 
 
 ### Data visualization (exploratory)
+I created plots to gain insights in the data, testing hypothesis from literature and knowing how many features to select.
 
+[Read more](pages/data-preprocessing/data-visualization.md)
 
 ## Predictive analytics
 ### Selecting a model
-Selecting a model
 
 ### Configuring a model
 
