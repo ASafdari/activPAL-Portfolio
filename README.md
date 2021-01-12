@@ -77,15 +77,24 @@ I created plots to gain insights in the data, testing hypothesis from literature
 
 ## Predictive analytics
 ### Selecting a model
-
-### Configuring a model
+Early on it became clear we would need multiple MET regression models. One for each activity. In my case, I worked on linear regression because [((Sasaki et al., 2016, p. 34))](https://doi.org/10.1016/b978-0-12-802075-3.00002-4) states there is a linear relationship between energy expenditure and movement acceleration. 
 
 ### Training a model
+After my models were done training, I have analyzed the validation sores.
+
+[Read more](pages/predictive-analytics/model-training.md)
 
 ### Evaluating a model
+For the linear regression models I have used 5-fold cross validation to try and improve the model. Moreover, I ran the model on test set. Finally, as a team we compared the results of the regression models
+
+[Read more](pages/predictive-analytics/model-evaluation.md)
 
 ### Visualizing the outcome of a model
+I have used a grouped bar chart to visualize the evaluation metrics for all linear regression models. Here is an example of one:
 
+<img src='evidence/images/model-visualization.jpg' />
+
+The function that was used to plot these visualization has been created by Colin. 
 
 ## Communications
 ### Presentatioins
