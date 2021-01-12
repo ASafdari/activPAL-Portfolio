@@ -154,7 +154,17 @@ Here is a list of notebooks/python files I contributed to:
 * [removing_outliers](evidence/notebooks/removing_outliers.pdf)
 * [Application main](evidence/notebooks/main_nb.pdf)
 
-Note: regarding the files for the application (ActivPalUser, ActivPalUserFactory, MetRegressionDataPreparingUtils, application main) Adnan created the infrastructure and I implemented these parts.
+<u>Note</u>: there are multiple verions of the functions below in the notebooks. The first version were created by Coling and me. Later I refactored these functions.
+* *get_regression_df*
+* *get_vyntus_df*
+* *get_raw_df*
+* *get_timestamps*
+
+<u>Note</u>: the *get_speed* method in almost all notebooks, except in any "*linear_regression_XYZ_MET-*[ACTIVITY]*-new*" notebooks is created by Adnan. In the notebooks previously mentioned, it is created by me. 
+
+<u>Note</u>: the function in the linear regression notebooks that visualizes the outcome of the models is created by Colin.
+
+<u>Note</u>: regarding the files for the application (ActivPalUser, ActivPalUserFactory, MetRegressionDataPreparingUtils, application main) Adnan created the infrastructure and I implemented these parts.
 
 ## Scrum tickets
 Below I added a screenshot of all the Scrum tickets I was involved with. On the left side are tickets that are assigned to my name only. On the right side are tickets of which I am one of the assignees.
