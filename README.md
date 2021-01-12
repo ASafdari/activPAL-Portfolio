@@ -21,6 +21,17 @@ Project: activPAL
 | Merging DataFrames with pandas	 | [certificate](evidence/courses/merging-dataframes-with-pandas.pdf) |
 | Exploratory data analysis in Python	 | [certificate](evidence/courses/exploratory-data-analysis-in-python.pdf) |
 
+# Reflection and evaluation
+## Reflection on own contribution to the project
+[Read here](pages/reflection/own-contributions.md)
+
+## Reflection on own learning objectives
+[Read here](pages/reflection/learning-objectives.md)
+
+## Evaluation on the group project as a whole
+[Read here](pages/reflection/group-evaluation.md)
+
+
 ## Research project
 ### Task definition
 In the research plan document I helped to describe the research questions.
@@ -104,7 +115,7 @@ In this table are all the presentations that I presented on my own:
 | 07-09-2020 | [Internal presentation](evidence/presentations/07-09-2020-internal-presentation-week-1.pdf) |
 | 30-10-2020 | [External presentation](evidence/presentations/30-10-2020-external-presentation-week-2.pdf) |
 | 23-11-2020 | [Internal presentation](evidence/presentations/23-11-2020-internal-presentation-week-11.pdf) |
-| 14-12-2020 | [Internal presentation](evidence/presentations/23-11-2020-internal-presentation-week-15.pdf) |
+| 14-12-2020 | [Internal presentation](evidence/presentations/14-12-2020-internal-presentation-week-15.pdf) |
 
 ### Writing paper
 Here is a list of parts I wrote for the research paper:
@@ -117,9 +128,9 @@ Here is a list of parts I wrote for the research paper:
 
 ## Python notebooks
 Here is a list of notebooks/python files I mostly worked on myself:
-* [Data-preprocessing_activpal20_all_respondents_wakling](evidence/notebooks/Data-preprocessing_activpal20_all_respondents_wakling.pdf)
+* [Data-preprocessing_activpal20_all_respondents_walking](evidence/notebooks/Data-preprocessing_activpal20_all_respondents_walking.pdf)
 * [Data-preprocessing_respondents_csv](evidence/notebooks/Data-preprocessing_respondents_csv.pdf)
-* [linear_regression_XYZ_MET](evidence/notebooks/linear_regression_XYZ_MET-.pdf)
+* [linear_regression_XYZ_MET](evidence/notebooks/linear_regression_XYZ_MET.pdf)
 * [linear_regression_XYZ_MET-walking_old](evidence/notebooks/linear_regression_XYZ_MET-walking_old.pdf)
 * [linear_regression_XYZ_MET-walking](evidence/notebooks/linear_regression_XYZ_MET-walking.pdf) 
 * [linear_regression_XYZ_MET-walking-new](evidence/notebooks/linear_regression_XYZ_MET-walking-new.pdf)

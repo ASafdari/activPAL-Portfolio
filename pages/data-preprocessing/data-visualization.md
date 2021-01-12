@@ -22,7 +22,7 @@ The plots I created to gain insight in the data are in [this notebook](/evidence
 <img src='../../evidence/images/plot-bicycling-hard.jpg' />
 
 ## Plots to test linear regression
-The plots I created to test the linear regression hypothesis described in [(Sasaki et al., 2016, p. 39)](https://doi.org/10.1016/b978-0-12-802075-3.00002-4):
+The plots I created in [this notebook](/evidence/notebooks/linear_regression_XYZ_MET.pdf) to test the linear regression hypothesis described in [(Sasaki et al., 2016, p. 39)](https://doi.org/10.1016/b978-0-12-802075-3.00002-4):
 
 <img src='../../evidence/images/linear-regression-walking-running.jpg' />
 
