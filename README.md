@@ -85,7 +85,7 @@ After my models were done training, I have analyzed the validation sores.
 [Read more](pages/predictive-analytics/model-training.md)
 
 ### Evaluating a model
-For the linear regression models I have used 5-fold cross validation to try and improve the model. Moreover, I ran the model on test set. Finally, as a team we compared the results of the regression models
+For the linear regression models I have used 5-fold cross validation to try and improve the model. Moreover, I take a look at the test set scores. 
 
 [Read more](pages/predictive-analytics/model-evaluation.md)
 
@@ -94,36 +94,58 @@ I have used a grouped bar chart to visualize the evaluation metrics for all line
 
 <img src='evidence/images/model-visualization.jpg' />
 
-The function that was used to plot these visualization has been created by Colin. 
+Note: the function that was used to plot these visualization has been created by Colin. 
 
 ## Communications
 ### Presentatioins
-- Internal presentation 07-09-2020
-- External presentation 30-10-2020
-- Internal presentation 23-11-2020
-- Internal presentation 14-12-2020
+In this table are all the presentations that I presented on my own:
+| **Date** | **Presentation** |
+|-|-|
+| 07-09-2020 | [Internal presentation](evidence/presentations/07-09-2020-internal-presentation-week-1.pdf) |
+| 30-10-2020 | [External presentation](evidence/presentations/30-10-2020-external-presentation-week-2.pdf) |
+| 23-11-2020 | [Internal presentation](evidence/presentations/23-11-2020-internal-presentation-week-11.pdf) |
+| 14-12-2020 | [Internal presentation](evidence/presentations/23-11-2020-internal-presentation-week-15.pdf) |
 
 ### Writing paper
-- Introduction
-- Method: Activity Classification (helped)
-- Method: International PA recommendation
-- Results: International PA recommendation
+Here is a list of parts I wrote for the research paper:
+* Introduction: iterations 1, 2 and 4
+* Helped Adnan with spelling/grammar for "*Activity Classification*" in Methods
+* All iterations of "*International recommendation of PA*" in Methods
+* All iteration of "*International recommendation of PA*" in Results
+
+[Proof](evidence/documents/Research-paper-iterations.pdf)
 
 ## Python notebooks
-- PandasHelper
-- DatetimeHelper
-- MathHelper
-- plot_basic_activities
-- create_csv_with_activity_labels_per_correspondent
-- plot_walking_for_correspondents
-- removing_outliers
-- data_preprocessing_respondenten
-- linear_regression_xyz_met
-- ActivityRecognitionDataPreparingUtils
-- MetRegressionDataPreparingUtils
-- DataPreparingUtilFactory
-- ActivPalUser
-- ActivPalUserFactory
-- roc auc
+Here is a list of notebooks/python files I mostly worked on myself:
+* [Data-preprocessing_activpal20_all_respondents_wakling](evidence/notebooks/Data-preprocessing_activpal20_all_respondents_wakling.pdf)
+* [Data-preprocessing_respondents_csv](evidence/notebooks/Data-preprocessing_respondents_csv.pdf)
+* [linear_regression_XYZ_MET](evidence/notebooks/linear_regression_XYZ_MET-.pdf)
+* [linear_regression_XYZ_MET-walking_old](evidence/notebooks/linear_regression_XYZ_MET-walking_old.pdf)
+* [linear_regression_XYZ_MET-walking](evidence/notebooks/linear_regression_XYZ_MET-walking.pdf) 
+* [linear_regression_XYZ_MET-walking-new](evidence/notebooks/linear_regression_XYZ_MET-walking-new.pdf)
+* [linear_regression_XYZ_MET-running_old](evidence/notebooks/linear_regression_XYZ_MET-running_old.pdf)
+* [linear_regression_XYZ_MET-running](evidence/notebooks/linear_regression_XYZ_MET-running.pdf)
+* [linear_regression_XYZ_MET-running-new](evidence/notebooks/linear_regression_XYZ_MET-running-new.pdf)
+* [linear_regression_XYZ_MET-cycling-light-new](evidence/notebooks/linear_regression_XYZ_MET-cycling-light-new.pdf)
+* [linear_regression_XYZ_MET-cycling-heavy-new](evidence/notebooks/linear_regression_XYZ_MET-cycling-heavy-new.pdf)
+* [linear_regression_XYZ_MET-cycling](evidence/notebooks/linear_regression_XYZ_MET-cycling.pdf)
+* [linear_regression_XYZ_MET-standing](evidence/notebooks/linear_regression_XYZ_MET-sitting.pdf)
+* [linear_regression_XYZ_MET-sitting](evidence/notebooks/linear_regression_XYZ_MET-standing.pdf)
+* [plot_basic_activities](evidence/notebooks/plot_basic_activities.pdf)
+* [plot_walking_all_correspondents](evidence/notebooks/plot_walking_all_correspondents.pdf)
+* [MetRegressionDataPreparingUtils.py](evidence/notebooks/MetRegressionDataPreparingUtils.py)
+* [ActivPalUser.py](evidence/notebooks/ActivPalUser.py)
+* [ActivPalUserFactory.py](evidence/notebooks/ActivPalUserFactory.py)
+
+Here is a list of notebooks/python files I contributed to:
+* [pandas_helper.py](evidence/notebooks/pandas_helper.py)
+* [math_helper.py](evidence/notebooks/math_helper.py)
+* [removing_outliers](evidence/notebooks/removing_outliers.pdf)
+* [Application main](evidence/notebooks/main_nb.pdf)
+
+Note: regarding the files for the application (ActivPalUser, ActivPalUserFactory, MetRegressionDataPreparingUtils, application main) Adnan created the infrastructure and I implemented these parts.
 
 ## Scrum tickets
+Below I added a screenshot of all the Scrum tickets I was involved with. On the left side are tickets that are assigned to my name only. On the right side are tickets of which I am one of the assignees.
+
+<img src='evidence/images/scrum-tickets.jpg'>
